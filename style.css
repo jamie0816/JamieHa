@@ -1,0 +1,14 @@
+body {
+	font-family: sans-serif;
+	background-color: black;
+	font-size: 30px;
+	color: white;
+	text-align: center;
+}
+#blacktext{
+	color: black;
+}
+#blacktext :hover{
+	color: white;
+	font-style: bold;
+}
